@@ -25,41 +25,41 @@ Construir a base necessária para trabalhar com dados, automações, modelos e a
 
 ## 1.1 — Python para IA
 
-- [ ] Instalar Python
-- [ ] Configurar ambiente virtual (`venv`)
-- [ ] Instalar bibliotecas com `pip`
-- [ ] Entender variáveis e tipos primitivos
-- [ ] Trabalhar com listas, tuplas e dicionários
-- [ ] Utilizar estruturas condicionais
-- [ ] Utilizar estruturas de repetição
-- [ ] Criar funções
-- [ ] Trabalhar com módulos
-- [ ] Manipular arquivos
-- [ ] Tratamento de exceções
-- [ ] Programação orientada a objetos
-- [ ] Entender decorators
-- [ ] Trabalhar com generators
-- [ ] Tipagem com Type Hints
+- [x] Instalar Python
+- [x] Configurar ambiente virtual (`venv`)
+- [x] Instalar bibliotecas com `pip`
+- [x] Entender variáveis e tipos primitivos
+- [x] Trabalhar com listas, tuplas e dicionários
+- [x] Utilizar estruturas condicionais
+- [x] Utilizar estruturas de repetição
+- [x] Criar funções
+- [x] Trabalhar com módulos
+- [x] Manipular arquivos
+- [x] Tratamento de exceções
+- [x] Programação orientada a objetos
+- [x] Entender decorators
+- [x] Trabalhar com generators
+- [x] Tipagem com Type Hints
 
 ---
 
 ## 1.2 — Ferramentas de Desenvolvimento
 
-- [ ] Instalar VSCode
-- [ ] Configurar extensões Python
-- [ ] Utilizar Git
-- [ ] Criar repositórios no GitHub
-- [ ] Aprender Git Flow básico
-- [ ] Utilizar Jupyter Notebook
-- [ ] Trabalhar com notebooks interativos
+- [x] Instalar VSCode
+- [x] Configurar extensões Python
+- [x] Utilizar Git
+- [x] Criar repositórios no GitHub
+- [x] Aprender Git Flow básico
+- [x] Utilizar Jupyter Notebook
+- [x] Trabalhar com notebooks interativos
 
 ---
 
 ## 1.3 — Manipulação de Dados
 
 - [ ] Trabalhar com NumPy
-- [ ] Criar arrays multidimensionais
-- [ ] Manipular matrizes
+- [x] Criar arrays multidimensionais
+- [x] Manipular matrizes
 - [ ] Operações matemáticas vetoriais
 - [ ] Utilizar Pandas
 - [ ] Ler CSV
